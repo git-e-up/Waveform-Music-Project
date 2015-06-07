@@ -120,3 +120,28 @@ window.onload = function(){
   // loadFile('audio/YOUR AWESOME SONG');
 
 };
+
+
+// Andrew's code...
+// function d3Project(data){
+//
+//   svg.selectAll('image')
+//       .data(data)
+//       .enter()
+//       .append('image')
+//         .attr("xlink:href", "http://cecelious.com/cecelious.gif")
+//         .attr('width', '100px')
+//         .attr('height', '100px')
+//         .style('rx', '0.5');
+//
+//   // Numbers here... are chosen for effect... they do not come from anywhere...
+//   svg.selectAll('image')
+//     .data(data)
+//         // .attr('r', function(d){ return d/12 +'px';})
+//         .attr('x', function(y, x){ return (100-(data.length/(x+1)))+'%';})
+//         .attr('y', function(d){ return Math.abs(500-d*2) +'px';})
+//         .attr('class','bubble')
+//         // .style('fill',function(d){ return colorGradient(120/d);})
+//         .style('opacity', function(d){ return d/200;});
+//     return svg;
+// }
