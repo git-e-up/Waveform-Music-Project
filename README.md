@@ -8,4 +8,4 @@ D3.js
 **Live Application**
 <a href="http://git-e-up.github.io/Waveform-Music-Project/" target="_blank">Waveform-Music-Project</a>
 
-
+This is fun way to see a song play. 
