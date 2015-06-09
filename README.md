@@ -1,6 +1,6 @@
 # Waveform-Music-Project
 
-[alt tag](https://raw.github.com/git-e-up/img/waveform.png)
+[alt tag](http://git-e-up.github.io/img/waveform.png)
 
 **Technologies used**
 D3.js
