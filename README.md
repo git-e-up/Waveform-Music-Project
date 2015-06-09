@@ -1,6 +1,6 @@
 # Waveform-Music-Project
 
-<img src= "/img/waveform.png" alt= 'BarCrawlApp image'>
+[alt tag]<img src= "/img/waveform.png" alt= 'BarCrawlApp image'>
 
 **Technologies used**
 D3.js
