@@ -115,7 +115,7 @@ window.onload = function(){
             .attr('width', '95%')
             .attr('height', '800px');
 
-  audioContext = new webkitAudioContext();
+  audioContext = new AudioContext();
   loadFile('audio/Pusher.mp3');
   // loadFile('audio/YOUR AWESOME SONG');
 
